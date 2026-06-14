@@ -69,7 +69,7 @@
         </div>
         <div class="item">
             <div class="label">商品JANコード：</div>
-            <div class="value">4989014451137</div>
+            <div class="value">4979870995678</div>
         </div>
     </div>
 </body>
